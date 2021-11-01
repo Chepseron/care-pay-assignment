@@ -9,7 +9,7 @@ The project requires the following to execute
 2. Apache Tomcat or TOM EE
 3. MYSQL 5.7
 4. You can choose an IDE of your prefference netbeans/eclipse/intellij
-5. Theres is an application.properties file which you will edit to add to the database url and credentials. The file path is springblog\src\main\resources
+5. Theres is an application.properties file which you will configure the database url and credentials. The file path is springblog\src\main\resources
 
 
 ## Tests
