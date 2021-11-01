@@ -13,8 +13,10 @@ The project requires the following to execute
 
 ## Tests
 
-Test options are found on the package however we have more tests ongoing
+Test options are found on the package 
 springblog\src\test\java\com\amon\blog\springblog
+however we have more tests ongoing
+
 
 ## Running the application locally
 
