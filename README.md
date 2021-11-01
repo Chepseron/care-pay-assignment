@@ -17,6 +17,8 @@ Test options are found on the package
 springblog\src\test\java\com\amon\blog\springblog
 however we have more tests ongoing
 
+More developments on the interface and additional patterns (Observer patterns to check for current posts and render them real time ongoing)
+
 
 ## Running the application locally
 
