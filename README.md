@@ -24,3 +24,8 @@ mvn spring-boot:run
 follow the link at https://www.codejava.net/servers/tomcat/how-to-deploy-a-java-web-application-on-tomcat.
 The Web Archive is located at springblog\target\
 
+## Copyright
+
+This project is for DEMO purposes. You can contact 
+https://www.linkedin.com/in/amon-sabul-msc-b593b386/
+
