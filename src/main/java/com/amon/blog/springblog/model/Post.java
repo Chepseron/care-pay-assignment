@@ -152,5 +152,9 @@ public class Post {
     public void setContent(String content) {
         this.content = content;
     }
+
+    public void setId(long l) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }
