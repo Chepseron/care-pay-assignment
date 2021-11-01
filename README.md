@@ -10,6 +10,12 @@ The project requires the following to execute
 3. MYSQL 5.7
 4. You can choose an IDE of your prefference netbeans/eclipse/intellij
 
+
+## Tests
+
+Test options are found on the package however we have more tests ongoing
+springblog\src\test\java\com\amon\blog\springblog
+
 ## Running the application locally
 
 There are several ways to run a Spring Boot application on your local machine. One way is to execute the main method in the com.amon.blog.springblog.SpringblogApplication class from your IDE.
