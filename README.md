@@ -20,6 +20,11 @@ however we have more tests ongoing
 
 More developments on the interface and additional patterns (Observer patterns to check for current posts and render them real time ongoing)
 
+## Security
+
+The application uses Json Web Tokens for authentication. for more information check on 
+https://mvnrepository.com/artifact/io.jsonwebtoken/jjwt
+
 
 ## Running the application locally
 
